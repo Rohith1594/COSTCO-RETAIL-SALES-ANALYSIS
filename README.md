@@ -1,1 +1,1 @@
-# COSTCO-RETAIL-SALES-ANALYSIS
+Developed a retail sales analysis pipeline for Costco, involving data extraction, cleaning, and loading into SQL Server. Wrote advanced SQL queries to identify top revenue products, month-over-month sales growth, and category trends, while comparing sub-category profit growth between 2022 and 2023
